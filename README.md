@@ -1,5 +1,6 @@
 # AndroidCommon
 
+<pre><code>
 buildscript {
   repositories {
     maven {
@@ -22,3 +23,4 @@ repositories {
 dependencies {
   compile 'com.android.black:common:0.0.1'
 }
+</code></pre>
