@@ -1,4 +1,8 @@
 # blackCommon
+---
+
+## Android公共库
+用来存放Android基本的工具库
 
 <pre><code>
 buildscript {
